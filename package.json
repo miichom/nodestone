@@ -1,6 +1,6 @@
 {
   "name": "@xivapi/nodestone",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "description": "Node.js Lodestone scraper",
   "keywords": ["bun", "deno", "ffxiv", "lodestone", "node", "xivapi"],
   "homepage": "https://github.com/xivapi/nodestone",
